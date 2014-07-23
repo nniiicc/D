@@ -1,5 +1,5 @@
 #Overview
-
+<br>
 In **chapter one** I describe two influential views of organizing, managing and funding knowledge production in basic science research; I refer to these two approaches as the cynical and the sentimental. I then describe how and why the cynical and the sentimental models are incompatible with the kinds of broad cooperation required to sustain collaborations that share and pool resources over long periods of time. 
 
 Next, I provide a brief background on the International Comprehensive Ocean and Atmosphere Dataset (ICOADS), which will be used as case study in this dissertation. I then describe my work with this community over the last two years, including a set of published studies of ICOADS impact, value and evolution. Building on the findings of this work, I state three research questions to be answered by this dissertation.
