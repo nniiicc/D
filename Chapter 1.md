@@ -9,7 +9,7 @@
 ><br>
 >**Oscar Wilde, Lady Windermere’s Fan 1893 Act III Scene I**
 
-###1.1. Cynics
+## Cynics
 
 In May of 2013, the House of Representatives’ Committee on Space, Science and Technology held two hearings titled “Restoring U.S. Leadership in Weather Forecasting.” Private industry leaders, academic experts and federal agency administrators gave testimony about potential ways to improve the USA’s response time to extreme weather events (e.g. hurricanes, tornadoes and earthquakes). The hope of Republican leadership on the committee was to gather input for legislation on how existing budget allocations for the National Ocean and Atmosphere Administration (NOAA) could be used to improve weather forecasting, and in particular numerical weather prediction (NWP) capabilities. 
 
