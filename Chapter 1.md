@@ -1,6 +1,5 @@
 #Chapter 1
-
-
+<br>
 >CECIL GRAHAM. What is a cynic?   
 >
 >LORD DARLINGTON. A man who knows the price of everything and the value of nothing.    
