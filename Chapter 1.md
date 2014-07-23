@@ -62,8 +62,8 @@ The global economic crisis of 2009 has had a profound impact on what was already
 
 - In March of 2014, the White House announced a new “data imitative” aimed at making climate and weather data more accessible, more usable, and more central to urban, agricultural and private industry decision making. Besides simply adding another tab to the data.gov website, the initiative was to engage private industry and philanthropic partners through “extensive open government data and design competitions” (Holden and Polesta, 2014).  Design competitions whose winning stakes were, it seems, access to better computational infrastructure provided by private companies, including:
 
-- - Microsoft Research — would provide12 months of free Azure cloud-computing access to the top 40 scientists and policy makers of design competitions
-- - Google — would provide 50 million hours worth HPC, and 1PB worth of cloud storage to the climate community based on design competition winners. Worth noting, this wouldn’t even store half of the data used to produce the most recent IPCC AR report.
+**   Microsoft Research — would provide12 months of free Azure cloud-computing access to the top 40 scientists and policy makers of design competitions
+* - - * Google — would provide 50 million hours worth HPC, and 1PB worth of cloud storage to the climate community based on design competition winners. Worth noting, this wouldn’t even store half of the data used to produce the most recent IPCC AR report.
 - - Intel Corporation — would sponsor three “hackathon” events that would award new hardware to the winners. 
 - - ESRI — would build an online portal for finding climate and weather related GIS data. Much of the data would be proprietary, but users were more than welcome to pay ESRI for access. 
 
