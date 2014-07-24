@@ -5,6 +5,7 @@
 
 *President Barak Obama, May 9, 2013 after announcing an executive order titled “Making Open and Machine Readable the New Default for Government Information”*
 
+<br>
 The opposite of a cynical approach to organizing basic science research is the sentimental - which sees an absurd value in every output of basic science research. The sentimental approach increasingly positions corporate sponsorship and commercialization of data and software produced by federally funded science projects as the key to boosting national economies. As Mirowski explains, in the wake of a global recession in 2009  applying free market ideals to basic science research funding has become wildly popular, especially among Western politicians who can cut basic science budgets with one hand, and bang the drum of "research and development" innovation with the other  (2011). The following anecdotes are from Western nations that demonstrate the increasing popularity of the sentimental approach:
 
 
