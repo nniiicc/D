@@ -20,3 +20,13 @@ Dr. Cliff Mass of the University of Washington, an expert in numerical weather p
 On the one hand, it’s strange Congress has to be this prescriptive. On the other hand I can understand that, given the failures of management in NOAA from the lack of investment in computers to the lack of evaluation of satellite and other observing systems. (Washington Post, 2014).
 
 In April of 2014, the bill now known as the “Weather Forecasting Improvement Act Of 2014 (H.R. 2413)” passed a simple majority vote in the House of Representatives, and is currently in the Senate, having been assigned to the Committee on Commerce, Science, and Transportation. 
+
+###Myths of H.R 2413
+
+H.R. 2413 embodies a number of myths that surround science policy and the federal subsidy of basic science research, notably what Dan Sarewitz calls the “myth of infinite benefit” and the “myth of accountability.” 
+
+The myth of infinite benefit is the assumption that an increase in federal funding will result in progress on basic science research problems – setting up an impossible scenario where more money automatically equals better science which should in turn produce greater societal benefits. 
+
+The myth of accountability assumes that by enforcing controls on the quality of scientific research that scientists will react positively, and ethically. In this scenario, where the ethics of science and scientists have failed, oversight and surveillance can become a de-facto moral compass (1996, p. 10). 
+
+These two myths embody what I call the cynical approach to organizing, funding and evaluating basic science research; It sees progress on substantive research questions as having a calculable price, and it sees inefficiency and accountability only in terms of cost. In the context of H.R. 2413, if the USA needs to bridge a NWP gap between current state, and state of the art then the answer is more funding, and more oversight.
