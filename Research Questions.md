@@ -1,4 +1,4 @@
-##Bakers,butchers and common powers
+##Bakers, Butchers and Common Powers
 
 Both of the caricatures sketched above -the cynical and the sentimental- are based on the assumption that people, whether they are NOAA sponsored scientists or open-data hackers, act primarily out of self-interest. Where cynics see the need to govern and formalize rules so as to guard against the selfish actions of these people, sentimentalists see the opportunity to capitalize on this selfishness by providing marketplaces where winners and loser will be “naturally” borne out. 
 
