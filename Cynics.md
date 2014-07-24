@@ -20,7 +20,7 @@ Dr. Cliff Mass of the University of Washington, an expert in numerical weather p
 On the one hand, it’s strange Congress has to be this prescriptive. On the other hand I can understand that, given the failures of management in NOAA from the lack of investment in computers to the lack of evaluation of satellite and other observing systems. (Washington Post, 2014).
 
 In April of 2014, the bill now known as the “Weather Forecasting Improvement Act Of 2014 (H.R. 2413)” passed a simple majority vote in the House of Representatives, and is currently in the Senate, having been assigned to the Committee on Commerce, Science, and Transportation. 
-
+<br>
 ###Myths of H.R 2413
 
 H.R. 2413 embodies a number of myths that surround science policy and the federal subsidy of basic science research, notably what Dan Sarewitz calls the “myth of infinite benefit” and the “myth of accountability.” 
