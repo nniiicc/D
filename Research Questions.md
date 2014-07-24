@@ -32,4 +32,4 @@ My third research question then is methodological, in asking:
 
 >**RQ3.** How can analytical frameworks successful for studying collective action problems in other settings be modified for sociotechnical settings where issues of sustainability, cooperation and shared resource management are diverse and shifting over time?  
 
-In the rest of this chapter, I argue that these are particularly salient questions to ask about institutions that are facing budget crises as a result of the politicization of climate research and that the International Ocean and Atmosphere Data Set (ICOADS) is an especially valuable case to explore these questions. To do so, I present results from three different studies of ICOADS that led me to these questions. 
+In the rest of this chapter, I argue that these are particularly salient questions to ask about institutions that are facing budget crises as a result of the politicization of climate research, and that the International Ocean and Atmosphere Data Set (ICOADS) is an especially valuable case to explore these questions. To do so, I present results from three different studies of ICOADS.
