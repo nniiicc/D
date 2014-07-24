@@ -1,6 +1,6 @@
 Abstract.md
 Overview.md
-Chapter 1.md
+Chapter One.md
 Cynics.md
 Cynics.md
 Sentimentalists.md
