@@ -13,9 +13,13 @@ Members of the House of Reresentatives “Subcommittee on the Environment” obj
 
 To get the bill out of committee a deal was brokered between Republications and Democrats to remove the language that implied NOAA would have to use existing federal budget allocations. Instead, Congress would allocate an additional $350 million for NOAA’s 2015-2017 operating budget.
 
-While the bill avoided congressional re-appropriation of existing federal research funds, it still included a considerable amount of oversight for how funds  were to be spent, and how individuals would be held accountable for making progress on what are substantive basic research problems. Steps towards regulating NOAA’s spending of these funds would include regular reporting by NOAA’s Director to congress on the status and improvement of weather prediction forecasting and “fundamental understanding of the weather”, directions for the CIO of NOAA to draft and make available for public comment a report on “computing resource prioritization,” and the establishment of a “weather research and innovation advisory committee” that would annually report to the Committee on Space, Science and Technology about NOAA’s progress in meeting the priorities described in the bill. 
+While the bill avoided congressional re-appropriation of existing research funds, it still included an innordinate amount of oversight for how money was to be spent, and how individuals would be held accountable for making progress on what are substantive basic research problems. Steps towards regulating NOAA’s spending of these funds included 
 
-Dr. Cliff Mass of the University of Washington, an expert in numerical weather prediction models and one of the most outspoken critics of NOAA’s weather forecasting performance described the bill as follow:
++ regular reporting by NOAA’s Director to Congress on the status and improvement of weather prediction forecasting and how the agency was making advances on a “fundamental understanding of the weather”
++ directions for the CIO of NOAA to draft and make available for public comment a report on “computing resource prioritization” , and 
++ the establishment of a “weather research and innovation advisory committee” that would annually report to the Committee on Space, Science and Technology about NOAA’s progress in meeting the priorities described in the bill. 
+
+Dr. Cliff Mass of the University of Washington, an expert in numerical weather prediction models and one of the most outspoken critics of NOAA’s weather forecasting performance, described the bill as follow:
 
 > On the one hand, it’s strange Congress has to be this prescriptive. On the other hand I can understand that, given the failures of management in NOAA from the lack of investment in computers to the lack of evaluation of satellite and other observing systems. (Washington Post, 2014).
 
