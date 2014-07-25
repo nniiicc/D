@@ -1,1 +1,1 @@
-A 10˚ grid used in original COADS data release 1.0. With greater data coverage, technqiues have been used to increse the resolution of the grid to 2˚. (Source, Woodruff et al. 1987)
+A 10˚ grid used in  COADS data release 1.0. Individual observations are stastically summaried to create an accurate set of measurements for the area of a grid cell. As more data are discovered and integrated with existing ICOADS observations the resolution of the grid has increased to 2˚. (Source, Woodruff et al. 1987)
