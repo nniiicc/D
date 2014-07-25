@@ -1,1 +1,1 @@
-Replace this text with your caption
+A 10˚ grid used in original COADS data release 1.0. With greater data coverage, technqiues have been used to increse the resolution of the grid to 2˚. (Source, Woodruff et al. 1987)
