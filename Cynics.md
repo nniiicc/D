@@ -26,7 +26,7 @@ Dr. Cliff Mass of the University of Washington, an expert in numerical weather p
 In April of 2014, the bill now known as the “Weather Forecasting Improvement Act Of 2014 (H.R. 2413)” passed a simple majority vote in the House of Representatives, and is currently in the Senate, having been assigned to the Committee on Commerce, Science, and Transportation. 
 
 ###Myths of H.R 2413
-
+<br>
 H.R. 2413 embodies a number of myths that surround science policy and the federal subsidy of basic science research, notably what Dan Sarewitz calls the “myth of infinite benefit” and the “myth of accountability.” 
 
 The myth of infinite benefit is the assumption that an increase in federal funding will result in progress on basic science research problems – setting up an impossible scenario where more money automatically equals better science which should in turn produce greater societal benefits. 
