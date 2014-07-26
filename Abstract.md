@@ -6,5 +6,4 @@ I argue that current models of organizing and funding this type of  work fail to
 
 Drawing on past studies of common-pool resource management, I propose a framework that will support the comparative, and longitudinal study of these complex sociotechnical systems. I apply this framework to ICOADS, and discuss its success and limitations as a diagnostic tool. 
 
-The thesis of this dissertation is that peer production and the shared management of research objects as public goods are an increasingly important aspect of systems-based sciences, and it is important to understand how institutions designed to support this work evolve and change over time. If future science and technology policies are to move beyond simple panaceas for the sustainability of sociotechnical systems then what is needed are XXXXX 
-
+The thesis of this dissertation is that peer production and the shared management of research objects as public goods are an increasingly important aspect of systems-based sciences. If future science and technology policies are to move beyond simple panaceas for the sustainability of sociotechnical systems then it is important to understand how institutions designed to support this work evolve and change over time. 
