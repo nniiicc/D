@@ -1,4 +1,4 @@
-##ICOADS impact
+##ICOADS Funding
 <br>
 ICOADS has, from its very beginnings, struggled to attract funding. As a preface to the first release of COADS one of the principle investigators noted that "It has taken four years and much effort by many individuals and several institutions to obtain and process the hundreds of tapes containing the basic data input. All of this effort was provided from ongoing activities; there was no appropriation identified for the task. It is a tribute to the spirit of cooperation among the participating organizations that the task has been successfully completed." (Slutz et al., 1985) As a result of this struggle, the developers of ICOADS release 1.0 committed to making all of its products (data, software, etc.) freely available to the climate science community (Woodruff et al, 1987). 
 
