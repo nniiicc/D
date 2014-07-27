@@ -6,6 +6,8 @@ My intial work on these questions took a very traditional information science ap
 
 The first 
 
+(d(u) / r(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{r}
+
 The impact of ICOADS couldnt be located in user logs, or citation analysis - it was an emergent property of the services, curation, documentation, 
 
 As a I continued to study this community and work alongside 
