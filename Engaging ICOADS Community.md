@@ -6,7 +6,7 @@ My intial work on these questions took a very traditional information science ap
 
 The first 
 
-(d(u) / r(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{r}
+<a href="http://www.codecogs.com/eqnedit.php?latex=(d(u)&space;/&space;r(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{r}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?(d(u)&space;/&space;r(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{r}" title="(d(u) / r(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{r}" /></a>
 
 The impact of ICOADS couldnt be located in user logs, or citation analysis - it was an emergent property of the services, curation, documentation, 
 
