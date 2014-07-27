@@ -7,6 +7,6 @@ Defining Cynics and Sentimentalists.md
 Research Questions2.md
 ICOADS Background.md
 figures/fig3-09/fig3-09.jpg
-ICOADS impact.md
+ICOADS Funding.md
 Defunding.md
 Footnotes Chapter 1.md
