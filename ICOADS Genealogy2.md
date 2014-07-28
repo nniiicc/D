@@ -1,9 +1,5 @@
 With the coded data, we then produced a maximum likelihood (ML) tree (Felsenstein 1981), by utilizing a statistical model specifically designed for use with morphological, or presence/absence data (Lewis, 2001). The assumption that we were making in this process is that significant properties or characteristics of the metadata records that we were coding could be clustered - such that data products that shared similar traits could be grouped together in the same way that similar species are grouped together in a phylogenetic analysis (for a complete discussion of this work see Thomer and Weber, 2014; Weber, Thomer and Worley, 2014). 
 
-To engage the ICOADS community in this work, we presented a poster at the 6th CLIMAR workshop on marine climatology in Asheville, North Carolina. We asked participants to write on the poster - giving us feedback about what datasets were missing, which datasets were or should be related to others, and what if anything was helpful about visualizing the heredity of ICOADS in this way. 
+To engage the ICOADS community in this work, we presented a poster at the 6th CLIMAR workshop on marine climatology in Asheville, North Carolina. We asked participants to write on the poster - giving us feedback about what datasets were missing from our tree, which datasets were or could be related to others, and what if anything was helpful about visualizing the heredity of ICOADS in this way. 
 
 The feedback we recieved was frustration at the lack of documentation available, and a recognition that although our methods were accurate they told an incomplete story about how ICOADS had evolved from an unfunded project to a massively used and widely circulated set of historical records. Many people that viewed and wrote on our poster wanted to tell us about data products we had missed that were incredibly important in their field of study, that were based on some small subset of ICOADS, and that we would never find in a massive database like GCMD. 
-
-The most important 
-
-**Write Transition**
