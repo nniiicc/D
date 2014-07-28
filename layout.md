@@ -16,4 +16,5 @@ ICOADS Genealogy.md
 figures/ModelComp.1/ModelComp.1.jpg
 ICOADS Genealogy1.md
 figures/ICOADS_Coding/ICOADS_Coding.png
+ICOADS Genealogy2.md
 Footnotes Chapter 1.md
