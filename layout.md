@@ -24,4 +24,5 @@ Open Science.md
 Collective Action.md
 Commons.md
 figures/CommonsMatrix/CommonsMatrix.jpg
+Commons1.md
 Footnotes Chapter 1.md
