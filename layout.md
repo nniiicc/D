@@ -19,4 +19,5 @@ ICOADS Genealogy1.md
 figures/ICOADS_Coding/ICOADS_Coding.png
 ICOADS Genealogy2.md
 Ch. 2 Summary.md
+Chapter 3.md
 Footnotes Chapter 1.md
