@@ -1,3 +1,4 @@
 ###ICOADS Genealogy 
 
-The second study that we conducted attempted to trace the geneaology of ICOADS and its derivative products. As described in the background section, ICOADS has been widely used in the climate science community, but knowing exactly how it has been used and to what extent remains unclear \cite{worley2012data}. 
+The second study that we conducted attempted to trace the geneaology of ICOADS and its derivative products. As described in the background section, ICOADS has been widely used in the climate science community, but knowing exactly how it has been used and to what extent remains unclear \cite{worley2012data}. And, although ICOADS own provenance records (typically in the form of metadata about ships) offer a detailed and important look at how the dataset was assembled at each stage of a new release, this metadata fails to fully account for how data have changed between releases, and more importantly,
+can't account for ways in which ICOADS has been used as a part of other derivative climate data products (Kent et al., 2007).
