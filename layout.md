@@ -10,6 +10,7 @@ figures/fig3-09/fig3-09.jpg
 ICOADS Funding.md
 Engaging ICOADS Community.md
 Data Usage Index.md
+Table 1.tex
 ICOADS Genealogy .md
 figures/Slide09/Slide09.jpg
 ICOADS Genealogy.md
