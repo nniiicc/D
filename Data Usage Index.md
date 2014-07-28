@@ -1,7 +1,8 @@
 ###The Data Usage Index
 
-The first of these studies was an analysis of the user logs for the Research Data Archive (RDA) where ICOADS is stored and served to end users. We hoped to develop a set of indicators based on archive - user interactions (i.e. downloads, pages visited) that would allow us to typify how ICOADS was used and consumed. To do this, we borrowed largely from an existing Data Usage Index (DUI) developed in the life sciences (). 
+The first of these studies was an analysis of the user logs from the Research Data Archive (RDA) where ICOADS is hosted and served to end users. In this work, we hoped to develop a set of indicators based on data access events (i.e. downloads, pages visited) that would allow us to typify how ICOADS was  consumed. To do this, we borrowed largely from an existing Data Usage Index (DUI) developed in the life sciences (\cite{chavan2009towards}; \cite{ingwersen2011indicators}). 
 
+<br>
 
 | | Code      | Indicator             | Explanation                                                             |
 |------|-----------------|---------------------------|--------------------------------------------------------------|
