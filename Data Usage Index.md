@@ -27,7 +27,7 @@ After extracting this data from user logs, we then calculated two index scores f
 
 <br>
 
-The scores that we calculated were starkly different between data products, and seemed to fluctuate grately at different times of the year. While some datasets, including ICOADS, were consistently achieving high Usage Impact Factor scores it meant relatively little from an evaluative standpoint,  unless we could compare them to other data products of a similar vein - and for many of the resources hosted by the RDA, this is impossible.  In short, our work with the DUI was unsuccessful in establishing a generic metric for calculating the impact of one resource over another. 
+The scores that we calculated were starkly different between data products, and seemed to fluctuate greatly at different times of the year. While some datasets, including ICOADS, were consistently achieving high Usage Impact Factor scores it meant relatively little from an evaluative standpoint,  unless we could compare them to other data products of a similar vein - and for many of the resources hosted by the RDA, this is impossible.  In short, our work with the DUI was unsuccessful in establishing a generic metric for calculating the impact of one resource over another. 
 
 We then tried to typify users based on how they accessed a dataset (Weber, 2013; Weber and Thomer, 2013). Our hypothesis was that if we could develop a set of measurements for the impact that curators were having in assisting users then we might be able to make a strong economic case about the funding of this type of work. Similar work has been done in public libraries to measure the dollar value of services like a reference query \cite{jarrett2012texas}. 
 
