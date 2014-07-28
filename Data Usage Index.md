@@ -1,25 +1,7 @@
 ###The Data Usage Index
 
 The first of these studies was an analysis of user logs from the Research Data Archive (RDA) where ICOADS is hosted and served to end users. In this work, we hoped to develop a set of indicators based on data access events (e.g. downloads, pages visited, etc.) that would allow us to make a more robust set of statements about ICOADS impact than simply saying how many times it had been downloaded. To do this, we borrowed largely from an existing Data Usage Index (DUI) developed in the life sciences \cite{chavan2009towards}; \cite{ingwersen2011indicators}. In adapting the DUI for climate related data procuts we first developed a suite of DUI indicators specific to the types of interaction events of RDA users (see Table 1, more details can be found in Weber et al. 2013).
-
 <br>
-
-| | Code      | Indicator             | Explanation                                                             |
-|------|-----------------|---------------------------|--------------------------------------------------------------|
-| 1    | uu(ds)          | Unique Users              | Unique users that downloaded data during a time window       |
-| 2    | n(ds)           | Number of Datasets        | Number of Datasets assigned DS number by RDA                 |
-| 3    | f(ds)           | Files DS                  | Number of files in Dataset per time window                   |
-| 4    | d(ds)           | Download Frequency        | Total number of files downloaded per time window             |
-| 5    | hp(ds)          | Homepage Hits             | Home Page Hits of Data Set per time window                   |
-| 7    | d(ds) /uu (ds)  | Download Density          | Average number of files downloaded per unique user           |
-| 8    | d(ds) / f (ds)  | Usage Impact              | Total number of downloaded files over total files in dataset |
-| 9    | d(ds) / hp(ds)  | Usage Balance             | Files downloaded by number of homepage hits per time window  |
-| 10   | hp(ds) / f(ds)  | Interest impact           | Total homepage hits per number of files in dataset           |
-| 11   | hp(ds) / uu(ds) | Secondary Interest Impact | Total Homepage hits over unique users                        |
-| 12   | ss(ds) / d(ds)  | Subset Ratio              | Subset requests over total number files downloaded           |
-
-<br>
-
 After extracting this data from user logs, we then calculated two index scores for datasets hosted by the RDA, (including ICOADS): 
 
 + The **Usage Impact Factor** <a href="http://www.codecogs.com/eqnedit.php?latex=(d(u)&space;/&space;f(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{f}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?(d(u)&space;/&space;f(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{f}" title="(d(u) / r(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{r}" /></a> where (u) is the given resource unit, d is the download frequency of users, f is the number of files downloaded per user session, and n is the total number of units in the denominator, and
