@@ -18,7 +18,7 @@ The first of these studies was an analysis of the user logs for the Research Dat
 | 12   | ss(ds) / d(ds)  | Subset Ratio              | Subset requests over total number files downloaded           |
 
 <br>
-After establishing generic DUI indicators for climate related datasets (see Table 1, more details can be found in Weber et al. 2014) we calculated two index scores for ICOADS, and two similar research data products hosted by the RDA: 
+After establishing generic DUI indicators for climate related datasets (see Table 1, more details can be found in Weber et al. 2014) we calculated two index scores: 
 
 + The **Usage Impact Factor** <a href="http://www.codecogs.com/eqnedit.php?latex=(d(u)&space;/&space;f(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{f}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?(d(u)&space;/&space;f(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{f}" title="(d(u) / r(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{r}" /></a> where the given unit is (u), d is the download frequency of users, and f is the number of files downloaded per user session and n is the total number of units in the denominator, and
 + The **Interest Impact Factor** <a href="http://www.codecogs.com/eqnedit.php?latex=(d(u)&space;/&space;f(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{f}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?(hp(u)&space;/&space;f(u))/\sum_{1}^{n}{hp}/\sum_{1}^{n}{f}" title="(d(u) / r(u))/\sum_{1}^{n}{hp}/\sum_{1}^{n}{f}" /></a> where download frequency (d) of users is replaced by the number of homepage hits (hp) a dataset receives [4](#4).
