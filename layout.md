@@ -13,4 +13,5 @@ Data Usage Index.md
 ICOADS Genealogy .md
 figures/Slide09/Slide09.jpg
 ICOADS Genealogy.md
+figures/ModelComp.1/ModelComp.1.jpg
 Footnotes Chapter 1.md
