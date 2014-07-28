@@ -34,10 +34,10 @@ The two types of users we established were:
 
 <br>
 
-1. **Programmatic Users**: Data is accessed or downloaded through a command line tool (e.g. '-curl [^curl] or 'wget' [^wget]) or through scripting language. 
++ **Programmatic Users**: Data is accessed or downloaded through a command line tool (e.g. '-curl [^curl] or 'wget' [^wget]) or through scripting language. 
 
 
-2. **Assisted Users**: Data accessed via the graphical user interface, or by subset requests made through a separate tool developed by the RDA staff. 
++ **Assisted Users**: Data accessed via the graphical user interface, or by subset requests made through a separate tool developed by the RDA staff. 
 
 <br>
 
