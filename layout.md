@@ -23,4 +23,5 @@ Chapter 3.md
 Open Science.md
 Collective Action.md
 Commons.md
+figures/CommonsMatrix/CommonsMatrix.jpg
 Footnotes Chapter 1.md
