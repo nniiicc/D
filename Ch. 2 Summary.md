@@ -1,3 +1,5 @@
 ##Summary
 
-What each of these studies emphasized was ...
+What each of these studies emphasize is... 
+
+[write transition]
