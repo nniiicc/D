@@ -13,7 +13,7 @@ Members of the House of Reresentatives “Subcommittee on the Environment” obj
 
 To get the bill out of committee a deal was brokered between Republications and Democrats to remove the language that implied NOAA would have to use existing federal budget allocations. Instead, Congress would allocate an additional $350 million for NOAA’s 2015-2017 operating budget.
 
-While the bill avoided congressional re-appropriation of existing research funds, it still included an innordinate amount of oversight for how money was to be spent, and how individuals would be held accountable for making progress on what are substantive basic research problems. Steps towards regulating NOAA’s spending of these funds included 
+While the bill avoided congressional re-appropriation of existing research funds, it still included a substantial amount of oversight for how money was to be spent, and how individuals would be held accountable for making progress on what are substantive basic research problems. Steps towards regulating NOAA’s spending of these funds included 
 
 + regular reporting by NOAA’s Director to Congress on the status and improvement of weather prediction forecasting and how the agency was making advances on a “fundamental understanding of the weather”
 + directions for the CIO of NOAA to draft and make available for public comment a report on “computing resource prioritization” , and 
@@ -33,4 +33,4 @@ The myth of infinite benefit is the assumption that an increase in federal fundi
 
 The myth of accountability assumes that by enforcing controls on the quality of scientific research that scientists will react positively, and ethically. In this scenario, where the ethics of science and scientists have failed, oversight and surveillance can become a de-facto moral compass (1996, p. 10). 
 
-These two myths embody what I call the cynical approach to organizing, funding and evaluating basic science research; It sees progress on substantive research questions as having a calculatable price, and it sees inefficiency and accountability only in terms of a financial cost. In the context of H.R. 2413, if the USA needs to bridge a NWP gap between current state, and state of the art then the answer is more funding, and more oversight. 
+These two myths embody what I call the cynical approach to organizing, funding and evaluating basic science research; It sees progress on substantive research questions as having a calculable price, and it sees inefficiency and accountability only in terms of a financial cost. In the context of H.R. 2413, if the USA needs to bridge a NWP gap between current state, and state of the art then the answer is more funding, and more oversight. 
