@@ -31,11 +31,16 @@ The scores that we calculated were starkly different between data products, and 
 We then tried to typify users based on how they accessed a dataset (Weber, 2013; Weber and Thomer, 2013). Our hypothesis was that if we could develop a set of measurements for the impact that curators were having in assisting users then we might be able to make a strong economic case about the funding of this type of work. Similar work has been done in public libraries to measure the dollar value of services like a reference query \cite{jarrett2012texas}. 
 
 The two types of users we established were:
+
 <br>
+
 1. **Programmatic Users**: Data is accessed or downloaded through a command line tool (e.g. '-curl [^curl] or 'wget' [^wget]) or through scripting language. 
 
+
 2. **Assisted Users**: Data accessed via the graphical user interface, or by subset requests made through a separate tool developed by the RDA staff. 
+
 <br>
+
 What we saw emerge from the analysis of different user types were broad shifts between groups; over time programmatic users would increase, and assisted users would decrease (and vice versa). This pattern seemed to occur at very regular intervals (see figure 2 for an example from ICOADS). 
 
 I failed to come up with a rational explanation for these patterns until talking with an ICOADS curator who explained that he would often be asked to fulfill the same subset request - not wanting to duplicate work he would write an easily modifiable script to allow an "assisted user" to download or subset records more easily.  When I went searching for evidence of these scripts in online documentation I found modified versions were abundent - posted, for instance, to a web-forumn so that anyone interested in wave swell height could access a subset of those data in ICOADS. 
