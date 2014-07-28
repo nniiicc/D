@@ -24,12 +24,16 @@ After establishing generic DUI indicators for climate related datasets (see Tabl
 
 In short, our work with the DUI was unsuccessful in establishing a generic metric for calculating the impact of one resource over another. In  attempt to extend this work, we tried to typify users based on how they accessed a dataset (Weber, 2013; Weber and Thomer, 2013). The two types of users we established were:
 
-1. **Programmatic Users**: Data is accessed or downloaded through a command line tool (e.g. '-curl [^curl] or 'wget' [^wget], and 
+1. **Programmatic Users**: Data is accessed or downloaded through a command line tool (e.g. '-curl [^curl] or 'wget' [^wget]) or through scripting language. 
 
-2. **Assisted Users**: Data accessed via the graphical user interface, or submitted subset requests through a separate tool developed by the RDA staff. 
+2. **Assisted Users**: Data accessed via the graphical user interface, or by subset requests made through a separate tool developed by the RDA staff. 
 
-While this work also failed to establish a generic set of data usage metrics, what we saw emerge from the analysis of different user types were broad shifts between groups; over time programmatic users would increase, and assisted users would decrease (and vice versa), and whats more this often happened at very regular intervals (see figure 2 for an example from ICOADS). 
+What we saw emerge from the analysis of different user types were broad shifts between groups; over time programmatic users would increase, and assisted users would decrease (and vice versa), and whats more this often happened at very regular intervals (see figure 2 for an example from ICOADS). 
 
-I failed to come up with a rational explanation for these patterns until talking with an ICOADS curator who explained that occasionally he would fulfill the same subsetting request too many times, and would be motivated to write a new script that would allow an "assisted user" to download or subset records very easily - he could point to dates when that occurred, and the rise of programmatic users, versus new releases of ICOADS - and the subsequent breaking of a script and the rise of assisted users. While this seems like a trite example on its face, it speaks to how complicated constructing metrics are for 
+I failed to come up with a rational explanation for these patterns until talking with an ICOADS curator who explained that  he would often be asked to fulfill the same subset request which motivated him to write a script to allow an "assisted user" to download or subset records very easily. He could point to dates when that occurred, and the rise of programmatic users, versus new releases of ICOADS - and the subsequent breaking of a script and the rise of assisted users. When I went searching for evidence of these scripts, I would often find a modified version posted to a web-forumn- so that, for instance, anyone interested in wave swell height could access a subset of those data in ICOADS. 
+
+While this seems like a trite example on its face, it speaks to how complicated constructing metrics are for the sake of policy impact.
+
+
 
  
