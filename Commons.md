@@ -1,3 +1,5 @@
+##Commons
+<br>
 
 In open science the alternative to a private intellectual property are commons property regimes, which are rules and norms for the governance of resources that "require larger scale utilization than would be efficient in small, individually-owned parcels" (Benkler, 2014). In many settings, commons are the institutionalist method of critiquing the neoclassical model of property (Hess and Ostrom, 2003; as quoted in Benkler, 2014).
 
