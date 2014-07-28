@@ -1,1 +1,1 @@
-Replace this text with your caption
+Figure on left is a historical "family tree" of Atmospheric General Circulation Models assembled from archival documents and oral histories \cite{edwards2010vast}. Figure on right is a dendrogram showing relatedness of climate models that participated in the 5th Climate Model Intercomparrison Project - assembled using principal component analysis from model documentation \cite{knutti2013climate}.  
