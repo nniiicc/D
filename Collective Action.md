@@ -1,3 +1,5 @@
+##Collective Action
+<br>
 
 Robert K. Merton's work concerned with the functioning of science as opposed the content of its findings, or as he put it "We are here concerned in a preliminary fashion with the cultural structure of science. that is with one limited aspect of science as an institution. Thus, we shall consider, not the methods of science, but the mores with which they are hedged about." (p. 268). In Merton's work then we find a concern for the collection, processing, storage and use of resources that are beyond the budget, expertise or capability of any one institution alone to produce or develop. In this context, he developed the notion of collective action in the "extension of certified knowledge" , where individuals or institutions do not act independently, but instead coordinate their activities to achieve a shared goal which benefits a broad community of stakeholders (Merton, 1973). 
 
