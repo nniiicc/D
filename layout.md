@@ -22,4 +22,5 @@ Ch. 2 Summary.md
 Chapter 3.md
 Open Science.md
 Collective Action.md
+Commons.md
 Footnotes Chapter 1.md
