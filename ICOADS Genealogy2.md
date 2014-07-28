@@ -2,4 +2,8 @@ With the coded data, we then produced a maximum likelihood (ML) tree (Felsenstei
 
 To engage the ICOADS community in this work, we presented a poster at the 6th CLIMAR workshop on marine climatology in Asheville, North Carolina. We asked participants to write on the poster - giving us feedback about what datasets were missing, which datasets were or should be related to others, and what if anything was helpful about visualizing the heredity of ICOADS in this way. 
 
-The feedback we recieved was frustration at the lack of documentation available, and a recognition that although our methods were accurate - they told but a small part of the story on how ICOADS had evolved from an unfunded project to a massively used and widely circulated set of historical records. Many people at the conference were completely unaware of how many times the 
+The feedback we recieved was frustration at the lack of documentation available, and a recognition that although our methods were accurate they told an incomplete story about how ICOADS had evolved from an unfunded project to a massively used and widely circulated set of historical records. Many people that viewed and wrote on our poster wanted to tell us about data products we had missed that were incredibly important in their field of study, that were based on some small subset of ICOADS, and that we would never find in a massive database like GCMD. 
+
+The most important 
+
+**Write Transition**
