@@ -1,1 +1,1 @@
-Replace this text with your caption
+Coded fields extracted from metadata records of ICOADS related datasets (image from Thomer and Weber, 2014).  
