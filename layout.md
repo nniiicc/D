@@ -23,6 +23,6 @@ Chapter 3.md
 Open Science.md
 Collective Action.md
 Commons.md
-figures/CommonsMatrix/CommonsMatrix.jpg
+figures/CommonsMatrix/Screen Shot 2014-07-28 at 4.43.34 PM.png
 Commons1.md
 Footnotes Chapter 1.md
