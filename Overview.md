@@ -10,6 +10,6 @@ I use these overlaps to suggest that an analytical framework for studying the ev
 
 In **chapter four** I describe the methods I have used to conduct a case study of ICOADS. I outline the form that the completed case study will take and its contribution to our understanding of the sustainability of institutions for collective action. 
 
-I then review a number of different analytical frameworks that have been used, in part, to study the sustainability of cooperative institutions in political science, cultural heritage studies, human computer interaction, and information science. I outline a proposal for a framework to analyze the sustainability of sociotechnical systems. In the completed dissertation I will apply this framework to ICOADS, and discuss its success and limitations as a diagnostic tool.   
+Next, I review a number of different analytical frameworks that have been used, in part, to study the sustainability of cooperative institutions in political science, cultural heritage studies, human computer interaction, and information science. I then outline a proposal for a framework to analyze the sustainability of sociotechnical systems. In the completed dissertation I will apply this framework to ICOADS, and discuss its success and limitations as a diagnostic tool.   
 
 I conclude with a discussion of my intended audience, the limitations to the work I have proposed, and a schedule for completion of the dissertation.
