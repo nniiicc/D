@@ -20,4 +20,5 @@ figures/ICOADS_Coding/ICOADS_Coding.png
 ICOADS Genealogy2.md
 Ch. 2 Summary.md
 Chapter 3.md
+Open Science.md
 Footnotes Chapter 1.md
