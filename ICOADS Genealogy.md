@@ -1,2 +1,2 @@
 
-Previous studies of models in climate science have made similar claims about the relatedness of 
+Previous studies of the relatedness of models in climate science have used a variety of methods to show how the technologies evolved over time, and how collaboration between groups can be made more exlicit through the process of visualizing the heredity of these objects (See Figure 4 below). 
