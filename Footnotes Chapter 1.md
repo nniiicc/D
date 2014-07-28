@@ -7,6 +7,4 @@
 
 <a id="3">3</a>: Much like software, releases of ICOADS are numbered - with decimal places used to signify incrimental changes (i.e. 2.5), while major new releases are given a new number (i.e. 3.0).
 
-<a id="3">3</a>: 
-
 <a id="4">4</a>: Both metrics are adapted from the work of Ingwersen and Chavan (2011).
