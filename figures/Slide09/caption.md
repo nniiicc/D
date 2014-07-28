@@ -1,1 +1,1 @@
-ICOADS (in white) is used by each of the data products listed on this slide, but the relationship between these different resources is only loosely understood (image from Worley and Schuster, 2012). 
+ICOADS (in white) is used in each of the data products listed on this slide, but a lack of formal provenance information means that the relationship between these different resources is poorly understood (image from Worley and Schuster, 2012). 
