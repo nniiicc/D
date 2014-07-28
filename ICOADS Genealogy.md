@@ -1,2 +1,2 @@
 
-Our inspiration for this work came from previous studies of the relatedness of models in climate science, which have used a variety of methods to show how the technologies evolved over time, and how collaboration between groups can be made more explicit through the process of visualizing the heredity of these objects (see Figure 4 below). 
+Our inspiration for this work came from previous studies showing the relatedness of models used in climate science. In the image below, two very different methods show how the climate modeling technologies have evolved over time, and how collaboration between groups can be made more explicit through the process of visualizing the heredity of these objects. 
