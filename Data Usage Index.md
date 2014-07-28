@@ -22,8 +22,8 @@ The first of these studies was an analysis of the user logs from the Research Da
 
 After extracting this data from user logs, we then calculated two index scores for datasets hosted by the RDA, (including ICOADS): 
 
-+ The **Usage Impact Factor** <a href="http://www.codecogs.com/eqnedit.php?latex=(d(u)&space;/&space;f(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{f}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?(d(u)&space;/&space;f(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{f}" title="(d(u) / r(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{r}" /></a> where the given unit is (u), d is the download frequency of users, and f is the number of files downloaded per user session and n is the total number of units in the denominator, and
-+ The **Interest Impact Factor** <a href="http://www.codecogs.com/eqnedit.php?latex=(d(u)&space;/&space;f(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{f}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?(hp(u)&space;/&space;f(u))/\sum_{1}^{n}{hp}/\sum_{1}^{n}{f}" title="(d(u) / r(u))/\sum_{1}^{n}{hp}/\sum_{1}^{n}{f}" /></a> where download frequency (d) of users is replaced by the number of homepage hits (hp) a dataset receives [4](#4).
++ The **Usage Impact Factor** <a href="http://www.codecogs.com/eqnedit.php?latex=(d(u)&space;/&space;f(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{f}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?(d(u)&space;/&space;f(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{f}" title="(d(u) / r(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{r}" /></a> where (u) is the given resource unit, d is the download frequency of users, f is the number of files downloaded per user session, and n is the total number of units in the denominator, and
++ The **Interest Impact Factor** <a href="http://www.codecogs.com/eqnedit.php?latex=(d(u)&space;/&space;f(u))/\sum_{1}^{n}{d}/\sum_{1}^{n}{f}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?(hp(u)&space;/&space;f(u))/\sum_{1}^{n}{hp}/\sum_{1}^{n}{f}" title="(d(u) / r(u))/\sum_{1}^{n}{hp}/\sum_{1}^{n}{f}" /></a> which is identical to UIF except download frequency (d) of users is replaced by the number of homepage hits (hp) a dataset receives [4](#4).
 
 <br>
 
