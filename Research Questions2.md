@@ -8,7 +8,7 @@ In this dissertation, I use a case study approach to describe a long standing co
 
 This is a descriptive case study (Yin, 2003), designed to reveal the unique aspects of the cooperative production, maintenance and use of ICOADS that I hope proves valuable to future science and technology studies desiring an information science perspective on issues of sustainability. But, I also argue that we can see ICOADS as an institutional arrangement, a kind of sociotechnical system, that will become more prevalent in the coming years; both as a result of shrinking federal support for basic science research and consequently the need to pool shared resources, and also more practically, as the type of instutional arrangement needed to tackle systems-based grand challenge science problems. The research questions that this case study addresses are:
 
->**RQ1.** How does ICOADS, as an institution for collective action, sustain successful cooperative arrangements in a post-normal paradigm?, and 
+>**RQ1.** How does ICOADS, as an institution for collective action, sustain successful cooperative arrangements?
 
 >**RQ2.** How has the governance and resource sharing arrangements of ICOADS evolved over time in response to external pressures from funding agencies, the politicization of the climate change, and rapid technological change? 
 
