@@ -29,4 +29,5 @@ Chapter 31.md
 figures/Screen Shot 2014-07-29 at 1.05.12 PM/Screen Shot 2014-07-29 at 1.05.12 PM.png
 Empirical Social Science.md
 Thick and Dirty; Thin and Clean.md
+Thick and Clean; Thin and Dirty.md
 Footnotes Chapter 1.md
