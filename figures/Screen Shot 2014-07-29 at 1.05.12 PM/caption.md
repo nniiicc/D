@@ -1,1 +1,1 @@
-Replace this text with your caption
+A matrix for empirical social science research. Figure adapted from \cite{Boettke2000}.
