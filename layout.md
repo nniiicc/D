@@ -25,4 +25,5 @@ Collective Action.md
 Commons.md
 figures/CommonsMatrix/Screen Shot 2014-07-28 at 4.43.34 PM.png
 Commons1.md
+Chapter 31.md
 Footnotes Chapter 1.md
