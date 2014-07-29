@@ -1,3 +1,5 @@
+##Thick & Dirty; Thin & Clean
+
 At the intersection of these two dimensions – dirty and clean, and thick and thin-  is where we can locate most social science research projects. 
 
 + For instance, a traditional scientometric study in Information Science will use quantitative data to answer very narrowly defined research questions, a narrowly defined theory of interpretation, and present the analysis of this data in a structured publication, In other words, it is the quintessential descriptively thin and empirically clean research project.
