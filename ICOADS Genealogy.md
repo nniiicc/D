@@ -1,2 +1,2 @@
 
-Our inspiration for this work came from previous studies showing the relatedness of models used in climate science. In the image below, two very different methods show how climate modeling technologies have evolved over time, and how collaboration between different modeling groups can be made more explicit through the process of visualizing the similarity of these objects. 
+Our inspiration for this study came from previous studies showing the relatedness of models used in climate science. In the image below, two very different methods show how climate modeling technologies have evolved over time, and how collaboration between different modeling groups can be made more explicit through the process of visualizing the similarity of these objects. 
