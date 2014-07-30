@@ -2,7 +2,7 @@
 
 ##Introduction
 <br>
-In chapter three, I first describe a range of research methods that can be used to study peer-produced commons, and my proposal to overcome limitations with the case study approach I compare different frameworks that have been used to study issues of sustainability, commons governance, and sociotechnical systems, broadly. I then describe the design and procedure for a case study of ICOADS, and how it will be used to test a proposed framework of sociotechnical systems At the end of this chapter, I describe the overall contribution of this research, and a schedule of completion.
+In chapter three, I first describe a range of research methods that can be used to study peer-produced commons, collective action, and sustainbility. I begin first by explaining how this work will overcome limitations with the case study approach. I then describe the design and procedure for a case study of ICOADS, and how it will be used to test a proposed framework of sociotechnical systems. At the end of this chapter, I describe the overall contribution of this research, and a schedule of completion.
 
 ##Empirical Social Science
 <br>
