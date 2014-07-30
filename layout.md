@@ -31,6 +31,7 @@ figures/Screen Shot 2014-07-29 at 1.05.12 PM/Screen Shot 2014-07-29 at 1.05.12 P
 Empirical Social Science.md
 Thick and Dirty; Thin and Clean.md
 Thick and Clean; Thin and Dirty.md
+Fit the Matrix.md
 Frameworks, theories and models.md
 Footnotes Chapter 1.md
 Footnotes Chapter 5.md
