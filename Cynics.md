@@ -31,6 +31,6 @@ H.R. 2413 embodies a number of myths that surround science policy and the federa
 
 The myth of infinite benefit is the assumption that an increase in federal funding will result in progress on basic science research problems – setting up an impossible scenario where more money automatically equals better science which should in turn produce greater societal benefits. 
 
-The myth of accountability assumes that by enforcing controls on the quality of scientific research that scientists will react positively, and ethically. In this scenario, where the ethics of science and scientists have failed, oversight and surveillance can become a de-facto moral compass (1996, p. 10). 
+The myth of accountability assumes that by enforcing controls on the quality of scientific research that scientists will react positively, and ethically. In this scenario, where the ethics of science and scientists have failed, oversight and surveillance can become a de-facto moral compass \cite[p. 10]{sarewitz2010frontiers}. 
 
 These two myths embody what I call the cynical approach to organizing, funding and evaluating basic science research; It sees progress on substantive research questions as having a calculable price, and it sees inefficiency and accountability only in terms of a financial cost. In the context of H.R. 2413, if the USA needs to bridge a NWP gap between current state, and state of the art then the answer is more funding, and more oversight. 
