@@ -1,6 +1,6 @@
 ##This proposal
 
-Hits ever cell in the matrix. 
+Hits every cell in the matrix. 
 
 Study one used tradtional clean and thin
 Study two used dirty and thin
