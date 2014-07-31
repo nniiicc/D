@@ -3,3 +3,15 @@
 
 "The freedom to operate that marks peer production, and the full organizational permeability of the practices, allow anyone with a potential to contribute to self-assign, experiment with resources, projects, and collaborations, and test the improvement produced in these experiments." (Benkler, 2013 p. 23)
 
+
+\begin{table}[h]
+\begin{tabular}{llllll}
+ & Task conception decentralized & Task excution decentralized & Social motivations significant & Governance separated from ownership & Task structure &                                                     \\
+Crowdsourcing                 & 0                           & 1                              & -                                   & 0              & Coordination                                        \\
+Onling labor markets          & -                           & 1                              & 0                                   & 0              & Individua, Parallel                                 \\
+Prize systems                 & 1                           & 1                              & -                                   & 0              & Parallel competitive                                \\
+Open collaborative innovation & -                           & -                              & 0                                   & 0              & Collaboration                                       \\
+Firm-hosted peer-production   & 1/ -                        & 1                              & 1                                   & 0/-            & Collaboration; coordination; parallel complementary \\
+Commons based peer-production & 1                           & 1                              & 1                                   & 1              & Collaboration; coordination; parallel complementary
+\end{tabular}
+\end{table}
