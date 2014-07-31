@@ -29,6 +29,7 @@ Free Riders.md
 Prisoners Dilemma Table.tex
 2 Free Riders.md
 Peer Production .md
+Characteristics of ICOADS.md
 Peer Production Table.tex
 Chapter 31.md
 figures/Screen Shot 2014-07-29 at 1.05.12 PM/Screen Shot 2014-07-29 at 1.05.12 PM.png
