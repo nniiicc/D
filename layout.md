@@ -27,6 +27,7 @@ Collective Action.md
 Commons.md
 figures/CommonsMatrix/Screen Shot 2014-07-28 at 4.43.34 PM.png
 Commons1.md
+Tragedy of the commons.md
 Free Riders.md
 Prisoners Dilemma Table.tex
 2 Free Riders.md
