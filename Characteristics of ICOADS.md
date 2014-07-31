@@ -1,4 +1,4 @@
-##
+##Notes on PP
 
 Collective action problems solved through peer produced science commons - we know none of the particulars for ICOADS - how these things are practically achieved - what we have at best is an outline of the salient and important things to look out for - or the beginnings of a framework for studying the sustainbility of institutions that 
 
