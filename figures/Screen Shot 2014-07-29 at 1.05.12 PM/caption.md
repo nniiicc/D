@@ -1,1 +1,1 @@
-A matrix for empirical social science research. Figure adapted from \cite{Boettke2000}.
+A matrix for empirical social science research methods and descriptions. Figure adapted from \cite{Boettke2000}.
