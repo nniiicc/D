@@ -1,4 +1,4 @@
-##Free riders
+###Free riders
 
 One of the most frequent dilemmas of collective action is the “free rider” problem. Free riding becomes possible when the total benefits from collective action are not a direct result of any one individual’s actions. When a group reaches a size where contribution to a common pool becomes difficult to track, and group membership is easy to obtain the phenomena of free riding can emerge: individual actors may consume or use more than they contribute.  Thus, an actor is said to "free ride" on the group's collective effort by benefitting equally and contributing nominally. 
 
