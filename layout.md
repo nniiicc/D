@@ -26,6 +26,7 @@ Commons.md
 figures/CommonsMatrix/Screen Shot 2014-07-28 at 4.43.34 PM.png
 Commons1.md
 Peer Production .md
+Peer Production Table.tex
 Chapter 31.md
 figures/Screen Shot 2014-07-29 at 1.05.12 PM/Screen Shot 2014-07-29 at 1.05.12 PM.png
 Empirical Social Science.md
