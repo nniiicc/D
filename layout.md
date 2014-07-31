@@ -31,6 +31,7 @@ Tragedy of the commons.md
 Free Riders.md
 Prisoners Dilemma Table.tex
 2 Free Riders.md
+Science Commons.md
 Peer Production .md
 Characteristics of ICOADS.md
 Peer Production Table.tex
