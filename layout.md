@@ -35,7 +35,6 @@ Science Commons.md
 figures/Screen Shot 2014-07-31 at 4.50.27 PM/Screen Shot 2014-07-31 at 4.50.27 PM.png
 Science Commons 2.md
 Peer Production .md
-Characteristics of ICOADS.md
 Peer Production Table.tex
 Chapter 31.md
 figures/Screen Shot 2014-07-29 at 1.05.12 PM/Screen Shot 2014-07-29 at 1.05.12 PM.png
