@@ -1,5 +1,8 @@
 ##This proposal
 
+
+The first two studies presented in chapter two fit the right form of this matrix - both use emprically clean methods, but differ in their presentation and interpreatio of the results. In the Data Usage Index, we used data which were publically available, and a set of adapted, but well accepted meaures of impact for 
+
 Hits every cell in the matrix. 
 
 Study one used tradtional clean and thin
