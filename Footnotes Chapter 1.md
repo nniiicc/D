@@ -1,4 +1,4 @@
-**Footnotes Chapter 1**
+**Footnotes Chapter 2**
 <br>
 
 <a id="chapter-1">1</a>: Sea surface flux measurements are taken at the interface of the ocean and atmosphere (e.g. sea-surface temperature, sea-level pressure, etc)
