@@ -4,6 +4,8 @@ ICOADS has, from its very beginnings, struggled to attract funding. As a preface
 
 Free and open access to ICOADS has helped it become recognized by the climate community as  "the most complete and heterogeneous collection of surface marine data in existence" (Woodruff et al. 2011). ICOADS data have been used extensively in earth systems science research, international climate assessment reports such as the IPCC, as well as being a fundamental component of reanalysis projects that combine historical weather observations with climate data to create authoritative, homogenous datasets for climate monitoring communities (Kalnay et al. ,1996).
 
+[transition needed]
+
 Amid political turmoil around federal budget allocations for FY 2013, NOAA announced in the winter of 2012 that there would be no future support of ICOADS through the Climate Program Office (CPO). A public announcement made in February of that year reads 
 
 >For budgetary reasons, stemming from pending large cuts at the NOAA Climate Program Office (CPO), ESRL Directors have determined that it is no longer feasible for its Physical Science Division (PSD) to continue supporting any further ICOADS work—effective immediately. (Woodruff et al, 2012). 
